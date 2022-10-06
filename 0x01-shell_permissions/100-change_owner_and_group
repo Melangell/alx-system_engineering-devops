@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp a+X *
+chgrp -hR -m vincent staff
