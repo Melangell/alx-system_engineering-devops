@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -hR g+s
+chgrp -hR g+s *
