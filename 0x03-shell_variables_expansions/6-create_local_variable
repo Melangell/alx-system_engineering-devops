@@ -1,0 +1,2 @@
+#!/bin/bash
+VARNAME="value" | tr "VARNAME=BEST" "value=School" | echo $VARNAME
