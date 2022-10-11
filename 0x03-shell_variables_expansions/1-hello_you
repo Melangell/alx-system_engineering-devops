@@ -1,1 +1,2 @@
-VimCrypt~03!ˆâôÜlälœt0«{Ñç³ÓH‰””k%b^²W¶Ë$cÕª½úUË@	ç|Çë¾O¸
+#!/bin/bash
+echo "hello $USER"
