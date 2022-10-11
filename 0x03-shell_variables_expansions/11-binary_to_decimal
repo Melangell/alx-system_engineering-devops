@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -binary $(($BINARYlog10))
+echo $(($BINARYlog10))
