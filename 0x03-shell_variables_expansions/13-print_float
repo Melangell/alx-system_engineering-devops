@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {$NUM} %.2f
+echo {$NUM} %.2f | tr "%.2f" | grep -n 3
