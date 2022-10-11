@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%o\n" $((water#$WATER + stir#$STIR)) | rot13
+printf "%o\n" $((water#$WATER + stir#$STIR)) | echo "b \n\n" | rot13
