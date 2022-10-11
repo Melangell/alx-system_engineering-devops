@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BINARYlog10))
+echo ${D2B($BINARYlog10)}
