@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((water#$WATER + stir#$STIR)) | printf "b"
+printf "%o\n" $((water#$WATER + stir#$STIR)) | rot13
