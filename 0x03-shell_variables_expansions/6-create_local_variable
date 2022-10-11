@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $VARNAME | tr -$VARNAME "BEST=School"
+BEST="School"
